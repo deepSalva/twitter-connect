@@ -1,0 +1,12 @@
+/home/savi01/dfki/TwitterConnect/src/main/java/Utils/GetTimeStamp.java
+/home/savi01/dfki/TwitterConnect/src/main/java/Influx/InfluxDBSink.java
+/home/savi01/dfki/TwitterConnect/src/main/java/Functions/SignalTransformation.java
+/home/savi01/dfki/TwitterConnect/src/main/java/data/DataPointSerializationSchema.java
+/home/savi01/dfki/TwitterConnect/src/main/java/Utils/NaiveTest.java
+/home/savi01/dfki/TwitterConnect/src/main/java/data/DataPoint.java
+/home/savi01/dfki/TwitterConnect/src/main/java/Connector/TwitterExampleData.java
+/home/savi01/dfki/TwitterConnect/src/main/java/data/ControlMessage.java
+/home/savi01/dfki/TwitterConnect/src/main/java/data/KeyedDataPoint.java
+/home/savi01/dfki/TwitterConnect/src/main/java/Utils/ReadingDictionariesJsonIDs.java
+/home/savi01/dfki/TwitterConnect/src/main/java/Utils/Char2NumberMap.java
+/home/savi01/dfki/TwitterConnect/src/main/java/Connector/TwitterConnect.java
